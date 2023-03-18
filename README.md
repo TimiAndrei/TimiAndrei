@@ -1,14 +1,12 @@
 <h3 align="center">A passionate student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=timiandrei" alt="timiandrei" /></a> </p>
-
 - 🔭 I’m currently working on [Musical Instrument Website](https://github.com/TimiAndrei/Proiect-TW)
 
 - 🌱 I’m currently learning **C#, Nodejs, .NET, JavaScript, Verilog**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/timotei andrei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="timotei andrei" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/timotei-andrei-8a5350209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="timotei-andrei" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,4 +16,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=timiandrei&show_icons=true&locale=en" alt="timiandrei" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=timiandrei&" alt="timiandrei" /></p>
