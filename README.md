@@ -24,4 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=timiandrei&show_icons=true&locale=en&layout=compact" alt="timiandrei" /></p>
 <br><br><br><br><br><br><br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=timiandrei&label=Profile%20views&color=0e75b6&style=flat" alt="timiandrei" /> </p>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=TimiAndrei&label=Profile%20Views&color=1&icon=0&pretty=true" />
+</a>
