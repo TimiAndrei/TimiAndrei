@@ -23,3 +23,5 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=timiandrei&show_icons=true&locale=en&layout=compact" alt="timiandrei" /></p>
+<br><br><br><br><br><br><br><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=timiandrei&label=Profile%20views&color=0e75b6&style=flat" alt="timiandrei" /> </p>
